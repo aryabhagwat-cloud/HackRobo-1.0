@@ -1,0 +1,24 @@
+{
+  "timestamp": 1758347856,
+  "proper_prediction": {
+    "disease": "Tomato_healthy",
+    "confidence": 0.7792582082636023,
+    "severity": "none",
+    "timestamp": 1758347855.4024532,
+    "analysis": {
+      "has_plants": true,
+      "plant_confidence": 0.3333333333333333,
+      "green_percentage": 71.9580078125,
+      "leaf_count": 0,
+      "total_leaf_area": 0,
+      "green_score": 1.0,
+      "leaf_score": 0.0,
+      "area_score": 0.0
+    },
+    "status": "disease_detected"
+  },
+  "filename": "proper_detection_1758347856.jpg",
+  "demo_time": 44.60985541343689,
+  "real_disease_count": 4,
+  "real_plant_count": 24
+}

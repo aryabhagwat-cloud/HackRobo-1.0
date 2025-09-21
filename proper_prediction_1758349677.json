@@ -1,0 +1,24 @@
+{
+  "timestamp": 1758349677,
+  "proper_prediction": {
+    "disease": "Pepper__bell___Bacterial_spot",
+    "confidence": 0.7638956505027982,
+    "severity": "medium",
+    "timestamp": 1758349674.776553,
+    "analysis": {
+      "has_plants": true,
+      "plant_confidence": 0.4578721788194444,
+      "green_percentage": 16.443033854166668,
+      "leaf_count": 1,
+      "total_leaf_area": 1237.5,
+      "green_score": 1.0,
+      "leaf_score": 0.3333333333333333,
+      "area_score": 0.040283203125
+    },
+    "status": "disease_detected"
+  },
+  "filename": "proper_detection_1758349677.jpg",
+  "demo_time": 78.37992835044861,
+  "real_disease_count": 12,
+  "real_plant_count": 50
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": 1758346655,
+  "proper_prediction": {
+    "disease": "No_plants_detected",
+    "confidence": 0.0,
+    "severity": "none",
+    "timestamp": 1758346652.522582,
+    "analysis": {
+      "has_plants": false,
+      "plant_confidence": 4.340277777777778e-05,
+      "green_percentage": 0.001953125,
+      "leaf_count": 0,
+      "total_leaf_area": 0,
+      "green_score": 0.00013020833333333333,
+      "leaf_score": 0.0,
+      "area_score": 0.0
+    },
+    "status": "no_plants"
+  },
+  "filename": "proper_detection_1758346655.jpg",
+  "demo_time": 186.89596271514893,
+  "real_disease_count": 12,
+  "real_plant_count": 153
+}

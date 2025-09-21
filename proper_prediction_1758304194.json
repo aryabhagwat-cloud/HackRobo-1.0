@@ -1,0 +1,24 @@
+{
+  "timestamp": 1758304194,
+  "proper_prediction": {
+    "disease": "Tomato_Late_blight",
+    "confidence": 0.8688679489271587,
+    "severity": "critical",
+    "timestamp": 1758304193.4673798,
+    "analysis": {
+      "has_plants": true,
+      "plant_confidence": 0.3333333333333333,
+      "green_percentage": 55.933268229166664,
+      "leaf_count": 0,
+      "total_leaf_area": 0,
+      "green_score": 1.0,
+      "leaf_score": 0.0,
+      "area_score": 0.0
+    },
+    "status": "disease_detected"
+  },
+  "filename": "proper_detection_1758304194.jpg",
+  "demo_time": 170.22963953018188,
+  "real_disease_count": 25,
+  "real_plant_count": 129
+}
